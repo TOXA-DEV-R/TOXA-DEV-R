@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [https://tohirxoja.netlify.app/](https://tohirxoja.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://tohirxoja.vercel.app/](https://tohirxoja.vercel.app/)
 
 - 💬 Ask me about **JavaScript, TypeScript, React, Vue**
 
 - 📫 How to reach me **toxa.tb9@gmail.com**
 
-- 📄 Know about my experiences [https://tohirxoja.netlify.app/about](https://tohirxoja.netlify.app/about)
+- 📄 Know about my experiences [https://tohirxoja.vercel.app/about](https://tohirxoja.vercel.app/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
