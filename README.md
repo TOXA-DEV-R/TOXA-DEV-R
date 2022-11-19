@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toxa-dev-r&show_icons=true&locale=en&layout=compact" alt="toxa-dev-r" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toxa-dev-r&show_icons=true&locale=en" alt="toxa-dev-r" /></p>
+<p style="margin-top: 10px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toxa-dev-r&show_icons=true&locale=en" alt="toxa-dev-r" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toxa-dev-r&" alt="toxa-dev-r" /></p>
