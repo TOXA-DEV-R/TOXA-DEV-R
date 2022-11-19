@@ -29,4 +29,4 @@
 
 <p style="margin-top: 10px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toxa-dev-r&show_icons=true&locale=en" alt="toxa-dev-r" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toxa-dev-r&" alt="toxa-dev-r" /></p>
+<p style="margin-top: 10px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toxa-dev-r&" alt="toxa-dev-r" /></p>
